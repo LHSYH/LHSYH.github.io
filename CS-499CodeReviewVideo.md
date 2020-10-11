@@ -12,6 +12,13 @@ For the purposes of this category, I will likely use an artifact from CS-340 whe
 ## ePortfolio Overall
 During the code review, my objectives will be to relay information about the following: purpose of the code, code structure, bugs or underlying issues, and finally explain enhancements made to the code. In the narratives section, my objective will be to illustrate information with regards to the following: what the artifact is, when it was made, why I chose this artifact(s) in specific, and go into further detail about the enhancement process. In the self-assessment portion, I will elaborate further on my experience within the CS program and skills gained throughout.
 
+## Code Review Video
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1gOtZiQfr-bEdqo84wQOjkfTFcvqJ6XxO/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 **I've added links to other sections of my ePortfolio below:**<br>
 * [Self-Assessment](https://lhsyh.github.io/SelfAssessment.html)<br>
 * [CS-499 Artifact Enhancement One](https://lhsyh.github.io/CS-499ArtifactOne.html)<br>
