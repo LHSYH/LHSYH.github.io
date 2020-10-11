@@ -16,6 +16,13 @@ There weren’t very many challenges I faced during the enhancement process for 
 
 [Enhancement Two Repository](https://github.com/LHSYH/CS-499Algorithms-DataStructures)
 
+**I've added links to other sections of my ePortfolio below:**<br>
+* [Self-Assessment](https://lhsyh.github.io/index.html)<br>
+* [CS-499 Artifact Enhancement One](https://lhsyh.github.io/CS-499ArtifactOne.html)<br>
+* [CS-499 Artifact Enhancement Two](https://lhsyh.github.io/CS-499ArtifactTwo.html)<br>
+* [CS-499 Artifact Enhancement Three](https://lhsyh.github.io/CS-499ArtifactThree.html)<br>
+* [CS-499 Artifact Selection Refinement Plan & Code Review Video](https://lhsyh.github.io/CS-499CodeReviewVideo.html)
+
 ### References
 Harvie, L. (2018, October 13th). 4 Ways to make your code more reusable. Medium. Retrieved from: https://medium.com/@lanceharvieruntime/4-ways-to-make-your-code-more-reusable-  bc20889c1e4
 
