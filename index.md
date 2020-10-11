@@ -1,4 +1,5 @@
 # CS-499 ePortfolio
+### A brief introduction into what you'll find inside!
 
 ## Self-Assessment:
 
