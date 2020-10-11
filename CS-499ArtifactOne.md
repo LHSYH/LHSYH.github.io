@@ -16,6 +16,15 @@ While working on enhancements, I was faced with a wide-assortment of challenges:
 
 [Enhancement One Repository](https://github.com/LHSYH/CS-499ArtifactEhancementOne)
 
+**I've added links to other sections of my ePortfolio below:**<br>
+* [Self-Assessment](https://lhsyh.github.io/index.html)<br>
+* [CS-499 Artifact Enhancement One](https://lhsyh.github.io/CS-499ArtifactOne.html)<br>
+* [CS-499 Artifact Enhancement Two](https://lhsyh.github.io/CS-499ArtifactTwo.html)<br>
+* [CS-499 Artifact Enhancement Three](https://lhsyh.github.io/CS-499ArtifactThree.html)<br>
+* [CS-499 Artifact Selection Refinement Plan & Code Review Video](https://lhsyh.github.io/CS-499CodeReviewVideo.html)
+
+
+
 ### References
 Becker, R. (2020, August 14th). Computer-aided design (CAD). Techopedia. Retrieved from: https://www.techopedia.com/definition/2063/computer-aided-design-cad
 
