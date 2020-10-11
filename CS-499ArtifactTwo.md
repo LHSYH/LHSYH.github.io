@@ -16,3 +16,9 @@ There weren’t very many challenges I faced during the enhancement process for 
 
 [Enhancement Two Repository](https://github.com/LHSYH/CS-499Algorithms-DataStructures)
 
+### References
+Harvie, L. (2018, October 13th). 4 Ways to make your code more reusable. Medium. Retrieved from: https://medium.com/@lanceharvieruntime/4-ways-to-make-your-code-more-reusable-  bc20889c1e4
+Maioli, C. M. (n.d.). 3 Creative techniques for writing modular code. TechBeacon. Retrieved from: https://techbeacon.com/app-dev-testing/3-creative-techniques-writing-modular-code
+
+                                                                             
+
