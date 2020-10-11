@@ -1,6 +1,6 @@
-# CS-499 ePortfolio
+# CS-499 ePortfolio - Self-Assessment
 
-## Self-Assessment: 
+## A Brief Introduction: 
 
 Throughout my time as a student in the CS program, I’ve been exposed to a vast array of computer science topics and fundamentals. More importantly however, I’ve learned to think much like a developer would; refining my critical thinking skills and my approach to solving problems. As a developer, I will more than likely be working in a team-environment where collaborative and communication skills are paramount to not only the team’s success, but also the software product. 
 
