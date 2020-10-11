@@ -17,7 +17,7 @@ While working on enhancements, I was faced with a wide-assortment of challenges:
 [Enhancement One Repository](https://github.com/LHSYH/CS-499ArtifactEhancementOne)
 
 **I've added links to other sections of my ePortfolio below:**<br>
-* [Self-Assessment](https://lhsyh.github.io/index.html)<br>
+* [Self-Assessment](https://lhsyh.github.io/SelfAssessment.html)<br>
 * [CS-499 Artifact Enhancement One](https://lhsyh.github.io/CS-499ArtifactOne.html)<br>
 * [CS-499 Artifact Enhancement Two](https://lhsyh.github.io/CS-499ArtifactTwo.html)<br>
 * [CS-499 Artifact Enhancement Three](https://lhsyh.github.io/CS-499ArtifactThree.html)<br>
