@@ -13,6 +13,7 @@ As far as course objectives are concerned, I felt fairly confident that I met al
 While working, I faced two primary challenges: scripts written in Python refusing to run in the Codio platform, and several HTTP status codes indicating errors - all else went relatively fine.
 
 **I've linked the repository for this particular artifact, below:**
+
 [Enhancement Three Repository](https://github.com/LHSYH/CS-499DataStructures)
 
 ### References
