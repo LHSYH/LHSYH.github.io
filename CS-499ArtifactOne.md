@@ -15,3 +15,9 @@ While working on enhancements, I was faced with a wide-assortment of challenges:
 **I've linked the repository for this particular artifact, below:**
 
 [Enhancement One Repository](https://github.com/LHSYH/CS-499ArtifactEhancementOne)
+
+### References
+Becker, R. (2020, August 14th). Computer-aided design (CAD). Techopedia. Retrieved from: https://www.techopedia.com/definition/2063/computer-aided-design-cad
+
+Ponce, G. (2019, November 28th). What is CAD design? – Simply explained. Retrieved from: https://all3dp.com/2/what-is-cad-design-simply-explained/
+
