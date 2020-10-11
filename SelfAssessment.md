@@ -1,4 +1,4 @@
-# CS-499 ePortfoli
+# CS-499 ePortfolio
 
 ## Self-Assessment & Introduction: 
 
