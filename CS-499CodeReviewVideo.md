@@ -12,6 +12,13 @@ For the purposes of this category, I will likely use an artifact from CS-340 whe
 ## ePortfolio Overall
 During the code review, my objectives will be to relay information about the following: purpose of the code, code structure, bugs or underlying issues, and finally explain enhancements made to the code. In the narratives section, my objective will be to illustrate information with regards to the following: what the artifact is, when it was made, why I chose this artifact(s) in specific, and go into further detail about the enhancement process. In the self-assessment portion, I will elaborate further on my experience within the CS program and skills gained throughout.
 
+**I've added links to other sections of my ePortfolio below:**<br>
+* [Self-Assessment](https://lhsyh.github.io/index.html)<br>
+* [CS-499 Artifact Enhancement One](https://lhsyh.github.io/CS-499ArtifactOne.html)<br>
+* [CS-499 Artifact Enhancement Two](https://lhsyh.github.io/CS-499ArtifactTwo.html)<br>
+* [CS-499 Artifact Enhancement Three](https://lhsyh.github.io/CS-499ArtifactThree.html)<br>
+* [CS-499 Artifact Selection Refinement Plan & Code Review Video](https://lhsyh.github.io/CS-499CodeReviewVideo.html)
+
 ### References
 CS-499 Final Project Guidelines and Rubric (n.d.). Retrieved from: https://learn.snhu.edu/content/enforced/525502-CS-499-Q1529-OL-TRAD-UG.20EW1/Course%20Documents/CS%20499%20Final%20Project%20Guidelines%20and%20Rubric.pdf
 
