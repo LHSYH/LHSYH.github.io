@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# CS-499 ePortfolio
 
-You can use the [editor on GitHub](https://github.com/LHSYH/LHSYH.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Self-Assessment:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Throughout my time as a student in the CS program, I’ve been exposed to a vast array of computer science topics and fundamentals. More importantly however, I’ve learned to think much like a developer would; refining my critical thinking skills and my approach to solving problems. As a developer, I will more than likely be working in a team-environment where collaborative and communication skills are paramount to not only the team’s success, but also the software product. During my time in the program, I further enhanced these skills in specific while working on a Juke Box Application. It was a team project wherein we were tasked with adding various functionality (i.e., ability to add new artists, songs, and curate custom playlists, etc.). Effective communication with non-technical stakeholders is also of great importance; the ability to convey ideas and concepts accurately and concisely was another great takeaway for me. 
 
-### Markdown
+## Strenghts & Artifact Summary:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# HELLO AND WELCOME!
-## Liewy's ePortfolio
-### 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LHSYH/LHSYH.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In the CS program, I also delved more into data structures, algorithms, software engineering and design principles, along with the fundamentals of database design and security. In software engineering, finding ways of harnessing and managing increasingly large data sets is vital; organizing data to maximize efficiency is a core component of a software engineer’s skillset, as is the case with efficient use of algorithms. A prime example of this would be the sports bidding system wherein I incorporated algorithms (i.e., to sort through bids), in conjunction with data structures (i.e., hash tables and dynamic arrays). Beyond that, I’ve further refined my database design skills by way of relational database management systems (RDBMS) and non-relational database management systems (DBMS) alike. MongoDB and MySQL were two systems I’ve used extensively throughout my time in the CS program. For example, I made use of MongoDB and a RESTful API to build a secure stock information service. The scripts were written in Python and I implemented functionality to retrieve various stock information from a remote server.
