@@ -16,6 +16,13 @@ While working, I faced two primary challenges: scripts written in Python refusin
 
 [Enhancement Three Repository](https://github.com/LHSYH/CS-499DataStructures)
 
+**I've added links to other sections of my ePortfolio below:**<br>
+* [Self-Assessment](https://lhsyh.github.io/index.html)<br>
+* [CS-499 Artifact Enhancement One](https://lhsyh.github.io/CS-499ArtifactOne.html)<br>
+* [CS-499 Artifact Enhancement Two](https://lhsyh.github.io/CS-499ArtifactTwo.html)<br>
+* [CS-499 Artifact Enhancement Three](https://lhsyh.github.io/CS-499ArtifactThree.html)<br>
+* [CS-499 Artifact Selection Refinement Plan & Code Review Video](https://lhsyh.github.io/CS-499CodeReviewVideo.html)
+
 ### References
 Dowen, B. (2019, February 19th). Automated REST API testing with Python. DEV. Retrieved from: https://dev.to/dowenb/automated-rest-api-testing-with-python-2jm5
 
