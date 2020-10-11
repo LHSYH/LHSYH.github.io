@@ -1,4 +1,4 @@
-# CS-499 Enhanced Artifact One
+# CS-499 Enhanced Artifact One Narrative
 
 ## Software Design & Engineering Artifact: Description
 As mentioned in Module One’s ePortfolio Selection and Refinement Plan assignment, this was an artifact I was working on while taking CS-330: Computational Graphic and Visualization. The artifact in question was a 3D object designed and rendered by way of Modern OpenGL alongside the FreeGLUT and GLUT application programming interfaces.
