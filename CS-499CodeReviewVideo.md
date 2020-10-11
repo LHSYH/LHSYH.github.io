@@ -1,4 +1,4 @@
-#CS-499 Artifact Selection & ePortfolio Refinement Plan
+# CS-499 Artifact Selection & ePortfolio Refinement Plan
 
 ## Category One: Software Engineering/Design
 For the purposes of this category, I am considering choosing an artifact that I worked on while taking CS-330: Computational Graphics and Visualization wherein I designed and rendered a 3D object by way of modern OpenGL in conjunction with the FreeGLUT and GLUT APIs. My plan for enhancing this particular artifact centers around three primary aspects: use of appropriate shaders, textures, and improved prospective projection. I’m also hoping to limit the number of triangles used to only 1,000. Doing so will help demonstrate my abilities in (and understanding of) software design and engineering principles.  
