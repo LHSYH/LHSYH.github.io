@@ -14,5 +14,5 @@ There weren’t very many challenges I faced during the enhancement process for 
 
 **I've linked the repository for this particular artifact, below:**
 
-[Enhancment Two Repository](https://github.com/LHSYH/CS-499Algorithms-DataStructures)
+[Enhancement Two Repository](https://github.com/LHSYH/CS-499Algorithms-DataStructures)
 
