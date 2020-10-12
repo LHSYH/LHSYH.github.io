@@ -14,11 +14,7 @@ During the code review, my objectives will be to relay information about the fol
 
 ## Code Review Video
 
-<iframe src="https://drive.google.com/file/d/1gOtZiQfr-bEdqo84wQOjkfTFcvqJ6XxO/preview" width="640" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1gOtZiQfr-bEdqo84wQOjkfTFcvqJ6XxO/preview" ></iframe>
+<iframe src="https://drive.google.com/file/d/1gOtZiQfr-bEdqo84wQOjkfTFcvqJ6XxO/preview" width="640" height="480"></iframe>
 
 **I've added links to other sections of my ePortfolio below:**<br>
 * [Self-Assessment](https://lhsyh.github.io/SelfAssessment.html)<br>
